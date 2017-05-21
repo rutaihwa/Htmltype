@@ -1,4 +1,4 @@
-#Htmltype
+# Htmltype
 
 ### A stupid & simple `html` creator for scala.
 
